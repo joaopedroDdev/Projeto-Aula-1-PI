@@ -1,13 +1,11 @@
 {
-  "name": "exericicio-ppi",
+  "name": "cadastrarempresas",
   "version": "1.0.0",
-  "description": "teste na tabuada",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "node index",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "joao pedro",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
